@@ -1,0 +1,2 @@
+rootProject.name = "Case7Core_SQLite"
+include ':app'
